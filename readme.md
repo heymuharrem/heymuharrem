@@ -1,6 +1,3 @@
-# 👋 Hi, I'm Muharrem G. from Markoffturkey
-### 🎨 Web Design Expert - 🛠️ WordPress Enthusiast - 🚀 Let's connect!
-
 <div align="center">
   <a href="https://www.instagram.com/heymuharrem">
     <img src="https://shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -16,7 +13,8 @@
   </a>
 </div>
 
----
+# 👋 Hi, I'm Muharrem G. from Markoffturkey
+### 🎨 Web Design Expert - 🛠️ WordPress Enthusiast - 🚀 Let's connect!
 
 👋 Merhaba, Ben Muharrem G., Markoffturkey'den
 ### 🎨 Web Tasarım Uzmanı - 🛠️ WordPress Tutkunu - 🚀 Haydi bağlantı kuralım!
