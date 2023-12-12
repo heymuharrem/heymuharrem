@@ -10,7 +10,7 @@
 Yaratıcılık ve teknolojiyi birleştirerek yenilikçi web tasarımları yaratmaya tutkulu bir tasarımcıyım. Markoffturkey'de, görsel estetiği ve kullanıcı deneyimini ön planda tutarak markaların dijital yüzünü şekillendirmekteyim. WordPress platformunda uzmanlaşmış olup, her proje için özelleştirilmiş çözümler sunuyorum. Bağlantı kurmak ve işbirliği yapmak için aşağıdaki kanallardan benimle iletişime geçebilirsiniz.</div>
 
 <br>
-<hr>
+
 
 <div align="center">
   <a href="https://www.instagram.com/heymuharrem">
