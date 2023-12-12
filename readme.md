@@ -1,10 +1,10 @@
-#  <div align="center">👋 🇺🇸Heyy Hello, ı'm Muharrem G.</div>
+#  <div align="center">👋 🇺🇸Heyy Hello, I'm Muharrem G.</div>
 
 <div align="center">Passionate about merging creativity with technology to craft innovative web designs. At Markoffturkey, I focus on visual aesthetics and user experience, shaping the digital identity of brands. Specialized in WordPress, I offer customized solutions for each project. Feel free to connect and collaborate through the channels below.</div>
 
 
 
-# <div align="center">👋 🇹🇷 Heyy Merhaba, ben Muharrem G.</div>
+# <div align="center">👋 🇹🇷 Heyy Merhaba, Ben Muharrem G.</div>
 
 <div align="center">
 Yaratıcılık ve teknolojiyi birleştirerek yenilikçi web tasarımları yaratmaya tutkulu bir tasarımcıyım. Markoffturkey'de, görsel estetiği ve kullanıcı deneyimini ön planda tutarak markaların dijital yüzünü şekillendirmekteyim. WordPress platformunda uzmanlaşmış olup, her proje için özelleştirilmiş çözümler sunuyorum. Bağlantı kurmak ve işbirliği yapmak için aşağıdaki kanallardan benimle iletişime geçebilirsiniz.</div>
