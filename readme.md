@@ -1,37 +1,15 @@
-# Muharrem G.
+👋 Hi, I'm Muharrem G. from Markoffturkey - 🎨 Web Design Expert - 🛠️ WordPress Enthusiast - 🚀 [Let's connect!]
 
-**Web Tasarım Uzmanı**
+🇺🇸 Connect with me:
+- Instagram: [@heymuharrem](https://www.instagram.com/heymuharrem)
+- GitHub: [@heymuharrem](https://github.com/heymuharrem)
+- Telegram: [@heymuharrem](https://t.me/heymuharrem)
+- Linkedin: [@gultekinm](https://www.linkedin.com/in/gultekinm/)
 
-**WordPress Tutkunu**
+👋 Merhaba, Ben Muharrem G., Markoffturkey'den - 🎨 Web Tasarım Uzmanı - 🛠️ WordPress Tutkunu - 🚀 [Haydi bağlantı kuralım!]
 
-**Bağlanalım!**
-
-**[LinkedIn](https://www.linkedin.com/in/muharremg/)**
-**[Twitter](https://twitter.com/muharremg_)**
-**[Github](https://github.com/muharremg)**
-
-**Hakkımda**
-
-10 yılı aşkın web tasarım deneyimine sahip bir uzmanım. Müşterilerimin ihtiyaçlarını karşılayan güzel ve işlevsel web siteleri oluşturmaya tutkuluyum. Aynı zamanda hevesli bir WordPress kullanıcısı ve geliştiricisiyim. WordPress'i yenilikçi ve ilgi çekici web siteleri oluşturmak için her zaman yeni yollar arıyorum.
-
-**Becerilerim**
-
-* Web tasarımı
-* HTML
-* CSS
-* JavaScript
-* WordPress
-* PHP
-* MySQL
-* Git
-* GitHub
-
-**Projelerim**
-
-* [Web sitem](https://muharremg.com/)
-* [Blogum](https://muharremg.com/blog/)
-* [Portfolyom](https://muharremg.com/portfolio/)
-
-**Bana ulaşın**
-
-Yetenekli bir web tasarımcısı arıyorsanız, sizinle tanışmak isterim. Beni web sitem, LinkedIn veya Twitter üzerinden ulaştırabilirsiniz.
+🇹🇷 Benimle iletişime geçin:
+- İnstagram: [@heymuharrem](https://www.instagram.com/heymuharrem)
+- GitHub: [@heymuharrem](https://github.com/heymuharrem)
+- Telegram: [@heymuharrem](https://t.me/heymuharrem)
+- Linkedin: [@gultekinm](https://www.linkedin.com/in/gultekinm/)
